@@ -1,4 +1,4 @@
-# demo
-this is first git repository
+# project
+music website
 <br>
 author-Tejas sathawane
